@@ -23,7 +23,7 @@ from typing import Union
 
 # to get a string like this run:
 # openssl rand -hex 32
-SECRET_KEY = "dd2863a75e2cec0435f6e1325019804b9eb4a1349f8de5dd129d6c7e6eb4b7e3"
+SECRET_KEY = "YOUR_SECRET_KEY"
 ALGORITHM = "HS256"
 ACCESS_TOKEN_EXPIRE_MINUTES = 30
 
